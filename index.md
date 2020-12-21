@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Let's Machine Learning, Not War
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Ladies and gentlemen, welcome! I'm keeping this blog mainly for learning purpose at this moment. Feel free to leave your comments and any precious advice. Let's start machine learning!
